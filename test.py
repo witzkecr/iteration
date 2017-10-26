@@ -9,3 +9,7 @@ names = ['Amy', "Bill", "Carol", "Dan", "Emily"]
 iterate(names)
 
 print_scores(names, scores)
+
+congratulations(names, scores)
+
+sorry(names, scores)
