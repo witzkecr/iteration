@@ -17,7 +17,7 @@ def print_scores(names, scores):
 	for i in range(0, len(names)):
 		print names[i] , " scored " , scores[i]
 
-def congratulations(names, scores)
+def congratulations(names, scores):
 	for i in range(0, len(names)):
 		if (score[i] == 100):
 			print "Congrats", name[i] "! You got a perfect score!"
